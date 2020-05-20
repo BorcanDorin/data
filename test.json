@@ -1,4 +1,10 @@
 {
-  "materie": "mate",
-  "fun fact": "Este un test"
+  "1": {
+    "materie": "mate",
+    "fun fact": "Este un test"
+  },
+  "2": {
+    "materie": "test",
+    "fun fact": "Este un test 2"
+  }
 }
