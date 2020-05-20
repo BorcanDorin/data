@@ -1,10 +1,11 @@
 {
-  "1": {
-    "materie": "mate",
-    "fun fact": "Este un test"
-  },
-  "2": {
-    "materie": "test",
-    "fun fact": "Este un test 2"
-  }
+  "data" :[
+    {
+      "materie": "mate",
+      "fun fact": "Este un test"
+    },
+    {
+      "materie": "test",
+      "fun fact": "Este un test 2"
+    }]
 }
